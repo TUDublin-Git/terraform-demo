@@ -3,7 +3,7 @@
 2. Create and open a Cloud9 environment with a Secure Shell (SSH) connection type.
 
 3. Clone the Git repository.
-- git clone https://github.com/kevinbayliss/terraform-demo
+- git clone https://github.com/TUDublin-Git/terraform-demo
 
 4. Install Terraform in the Cloud9 environment using the installation.sh script.
 - cd ~/environment && chmod +x terraform-demo/installation/installation.sh && ./terraform-demo/installation/installation.sh
@@ -58,5 +58,6 @@
 18. Close and delete the Cloud9 environment.
 
 19. Remove the SSH access rule from the default security group.
+
 
 20. End Lab and logout of the AWS Academy Learner Lab.
